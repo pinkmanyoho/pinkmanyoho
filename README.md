@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @pinkmanyoho
-- 👀 I’m interested in dogecoin
+dogecoin gogogo
 
 <!---
 pinkmanyoho/pinkmanyoho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
